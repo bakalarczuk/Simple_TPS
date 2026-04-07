@@ -50,14 +50,6 @@ This repository demonstrates my work on:
 - prefab-based workflow
 - integrating and structuring game assets inside Unity
 
-## Screenshots / video
-
-Add screenshots or a short gameplay GIF here.
-
-Example:
-
-![Gameplay screenshot](./docs/screenshot-01.png)
-
 ## Notes
 
 This project is presented as a prototype and portfolio piece.
